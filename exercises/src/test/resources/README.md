@@ -1,3 +1,3 @@
-Configure a Dispatcher
+Ask Pattern
 
 Please refer to the instructions in the Lightbend Academy.
